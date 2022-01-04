@@ -11,6 +11,7 @@ int main(){
 			printf("Tahun ke %d adalah %.2f\n",i,j);
 			k=j;
 			i++;
+			printf('user 1');
 	}
 }
 	
