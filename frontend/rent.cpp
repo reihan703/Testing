@@ -9,6 +9,7 @@ int main()
     scanf("%c", &type);
     printf("\nHow long will you rent it (Hour)? ");
     scanf("%f", &hour);
+    printf('user 2');
     
     if('S'==type||'s'==type){
         float rate = 20.00;
